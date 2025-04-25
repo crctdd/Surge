@@ -543,7 +543,6 @@ IP-CIDR,219.76.0.0/17,no-resolve
 IP-CIDR,23.23.189.144/28,no-resolve
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,23.78.0.0/16,no-resolve
-;IP-CIDR,2607:fb10::/32,no-resolve
 IP-CIDR,2620:10c:7000::/44,no-resolve
 IP-CIDR,2a00:86c0::/32,no-resolve
 IP-CIDR,2a03:5640::/32,no-resolve
