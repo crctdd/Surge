@@ -1,5 +1,31 @@
 # 各大Yellow网站分流
 
+# 
+DOMAIN-KEYWORD,pornhub
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-KEYWORD,jable
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-KEYWORD,91porn
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,whzsfy
+DOMAIN-SUFFIX,whzsfy.com
+DOMAIN-KEYWORD,onlyfans
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-KEYWORD,porn87
+DOMAIN-SUFFIX,porn87.com
+DOMAIN-KEYWORD,forusex
+DOMAIN-SUFFIX,forusex.com
+DOMAIN-KEYWORD,bttzyw
+DOMAIN-SUFFIX,bttzyw.info
+DOMAIN-KEYWORD,69vj
+DOMAIN-SUFFIX,69vj.com
+DOMAIN-KEYWORD,avgle
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,zztt15.com
+DOMAIN-KEYWORD,xxxfollow
+DOMAIN-SUFFIX,xxxfollow.com
+
 # JVID
 DOMAIN-SUFFIX,cdv6x4x6.cc
 DOMAIN-SUFFIX,cdv6x4x6.cn
@@ -192,6 +218,7 @@ DOMAIN-SUFFIX,10play.zbzfwi.cn
 
 # 海角社区
 DOMAIN-SUFFIX,haijiao.com
+DOMAIN-KEYWORD,haijiao
 
 # One
 DOMAIN-SUFFIX,api.pjq6he.com
@@ -274,6 +301,8 @@ DOMAIN-SUFFIX,api.26bb4xt.com
 DOMAIN-SUFFIX,api.vf5x3hv.com
 
 # 萝莉岛+吸游记
+DOMAIN-SUFFIX,d30gr5itzz88yd.cloudfront.net
+DOMAIN-KEYWORD,d30gr5itzz88yd
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,dag29jmgma1g.site
 DOMAIN-SUFFIX,site.com
